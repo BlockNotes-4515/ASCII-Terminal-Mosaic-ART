@@ -305,3 +305,50 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <blockquote>
   🎵 The exported video does not includes the complete AAC audio track we have to add it on by solving some dependencies.
 </blockquote>
+
+<hr>
+
+<h3 align="center">🎨 terminal-mosaic</h3>
+
+<p align="center">
+  <strong>Real-Time ASCII Image & Video Mosaic Generator</strong>
+</p>
+
+<p align="center">
+  <img src="assets/ascii_conversion.gif" alt="Image slowly converting into ASCII art" width="700">
+</p>
+
+<p align="center">
+  <em>✨ Watch an image transform into ASCII art, character by character.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pillow-Image%20Processing-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pygame-Audio%20%26%20Playback-00A86B?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/BlockNotes-4515/terminal-mosaic?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/forks/BlockNotes-4515/terminal-mosaic?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/issues/BlockNotes-4515/terminal-mosaic?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/github/license/BlockNotes-4515/terminal-mosaic?style=for-the-badge">
+</p>
+
+<p align="center">
+  <strong>⚡ Image → ASCII → Video</strong>
+</p>
+
+<p align="center">
+  Built with ❤️ using Python 🐍
+</p>
+
+<p align="center">
+  ⭐ If you enjoyed the project, consider giving it a star!
+</p>
+
+<p align="center">
+  <sub>© 2026 terminal-mosaic • Open Source Project</sub>
+</p>
