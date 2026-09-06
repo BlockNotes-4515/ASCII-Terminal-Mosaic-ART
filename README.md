@@ -220,6 +220,10 @@ pip freeze > requirements.txt
     processing.
   </li>
 </ul>
+<br>
+<p align="center">
+  <img src="assets/Sructural diagram.png" width="100%">
+</p>
 
 <hr>
 
