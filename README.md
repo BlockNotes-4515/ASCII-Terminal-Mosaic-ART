@@ -251,19 +251,19 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
     <td align="center">
       <img src="assets/mona lisa.webp" alt="ASCII Image" width="400">
       <br>
-      <strong>ASCII Image</strong>
+      <strong>ASCII Picture Preview </strong>
     </td>
     <td align="center">
       <img src="assets/mona lisa ascii.jpg" alt="ASCII Video Preview" width="400">
       <br>
-      <strong>ASCII Video Preview</strong>
+      <strong>ASCII Image</strong>
     </td>
   </tr>
 </table>
 
 <hr>
 
-<h3>2. Generated ASCII Video Preview</h3>
+<h3>2. Generated ASCII Video Preview </h3>
 
 <p>
   The video processor converts each frame into ASCII characters and
@@ -292,12 +292,12 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
     <td align="center">
       <img src="assets/Caramelldansen-Anime-Dance.avif" alt="ASCII Image" width="400">
       <br>
-      <strong>ASCII Image</strong>
+      <strong>ASCII Video Preview</strong>
     </td>
     <td align="center">
       <img src="assets/anime-girl.jpg" alt="ASCII Video Preview" width="400">
       <br>
-      <strong>ASCII Video Preview</strong>
+      <strong>ASCII Image</strong>
     </td>
   </tr>
 </table>
