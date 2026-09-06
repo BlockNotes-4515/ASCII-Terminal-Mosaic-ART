@@ -331,10 +331,21 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/BlockNotes-4515/terminal-mosaic?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/github/forks/BlockNotes-4515/terminal-mosaic?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/github/issues/BlockNotes-4515/terminal-mosaic?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/github/license/BlockNotes-4515/terminal-mosaic?style=for-the-badge">
+  <a href="https://github.com/BlockNotes-4515/ASCII-Terminal-Mosaic-ART">
+    <img src="https://img.shields.io/github/stars/BlockNotes-4515/ASCII-Terminal-Mosaic-ART?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+  </a>
+
+  <a href="https://github.com/BlockNotes-4515/ASCII-Terminal-Mosaic-ART/network/members">
+    <img src="https://img.shields.io/github/forks/BlockNotes-4515/ASCII-Terminal-Mosaic-ART?style=for-the-badge&logo=github&label=Forks" alt="GitHub Forks">
+  </a>
+
+  <a href="https://github.com/BlockNotes-4515/ASCII-Terminal-Mosaic-ART/issues">
+    <img src="https://img.shields.io/github/issues/BlockNotes-4515/ASCII-Terminal-Mosaic-ART?style=for-the-badge&logo=github&label=Issues" alt="GitHub Issues">
+  </a>
+
+  <a href="https://github.com/BlockNotes-4515/ASCII-Terminal-Mosaic-ART">
+    <img src="https://img.shields.io/github/license/BlockNotes-4515/ASCII-Terminal-Mosaic-ART?style=for-the-badge&label=License" alt="GitHub License">
+  </a>
 </p>
 
 <p align="center">
