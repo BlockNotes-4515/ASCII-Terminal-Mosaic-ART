@@ -1,4 +1,4 @@
- # ASCII 🎭 Terminal-Mosaic 🎨
+# Terminal-Mosaic 🎬🎨
 
 Terminal-Mosaic is a Python-powered media processing tool that converts images and videos into high-definition ASCII character mosaics. It features live ANSI color streaming inside your command line interface and preserves original video audio tracks.
 
