@@ -246,13 +246,17 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <p><strong>Saved Output:</strong></p>
 
 <pre><code>assets/output_mosaic.png</code></pre>
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="assets/sample_image.jpg" alt="ASCII Image" width="400">
+    <td align="center">
+      <img src="assets/output_mosaic.png" alt="ASCII Image" width="400">
+      <br>
+      <strong>ASCII Image</strong>
     </td>
-    <td>
-      <img src="assets/hd_ascii_result.png" alt="ASCII Video Preview" width="400">
+    <td align="center">
+      <img src="assets/video_preview.png" alt="ASCII Video Preview" width="400">
+      <br>
+      <strong>ASCII Video Preview</strong>
     </td>
   </tr>
 </table>
@@ -283,13 +287,17 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <p><strong>Saved Output:</strong></p>
 
 <pre><code>assets/output_mosaic_video.mp4</code></pre>
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="assets/output_mosaic.png" alt="ASCII Image" width="400">
+      <br>
+      <strong>ASCII Image</strong>
     </td>
-    <td>
+    <td align="center">
       <img src="assets/video_preview.png" alt="ASCII Video Preview" width="400">
+      <br>
+      <strong>ASCII Video Preview</strong>
     </td>
   </tr>
 </table>
