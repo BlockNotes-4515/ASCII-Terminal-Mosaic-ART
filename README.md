@@ -315,7 +315,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 </p>
 
 <p align="center">
-  <img src="assets/ascii_conversion.gif" alt="Image slowly converting into ASCII art" width="700">
+  <img src="assets/anime.gif" alt="Image slowly converting into ASCII art" width="700">
 </p>
 
 <p align="center">
