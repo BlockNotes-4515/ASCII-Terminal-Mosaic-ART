@@ -246,6 +246,16 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <p><strong>Saved Output:</strong></p>
 
 <pre><code>assets/output_mosaic.png</code></pre>
+<table>
+  <tr>
+    <td>
+      <img src="assets/sample_image.jpg" alt="ASCII Image" width="400">
+    </td>
+    <td>
+      <img src="assets/hd_ascii_result.png" alt="ASCII Video Preview" width="400">
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -273,6 +283,16 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <p><strong>Saved Output:</strong></p>
 
 <pre><code>assets/output_mosaic_video.mp4</code></pre>
+<table>
+  <tr>
+    <td>
+      <img src="assets/output_mosaic.png" alt="ASCII Image" width="400">
+    </td>
+    <td>
+      <img src="assets/video_preview.png" alt="ASCII Video Preview" width="400">
+    </td>
+  </tr>
+</table>
 
 <blockquote>
   🎵 The exported video does not includes the complete AAC audio track we have to add it on by solving some dependencies.
