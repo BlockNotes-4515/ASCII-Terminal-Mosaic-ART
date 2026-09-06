@@ -249,12 +249,12 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/output_mosaic.png" alt="ASCII Image" width="400">
+      <img src="assets/mona lisa.webp" alt="ASCII Image" width="400">
       <br>
       <strong>ASCII Image</strong>
     </td>
     <td align="center">
-      <img src="assets/video_preview.png" alt="ASCII Video Preview" width="400">
+      <img src="assets/mona lisa ascii.jpg" alt="ASCII Video Preview" width="400">
       <br>
       <strong>ASCII Video Preview</strong>
     </td>
@@ -290,12 +290,12 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/output_mosaic.png" alt="ASCII Image" width="400">
+      <img src="assets/Caramelldansen-Anime-Dance.avif" alt="ASCII Image" width="400">
       <br>
       <strong>ASCII Image</strong>
     </td>
     <td align="center">
-      <img src="assets/video_preview.png" alt="ASCII Video Preview" width="400">
+      <img src="assets/anime-girl.jpg" alt="ASCII Video Preview" width="400">
       <br>
       <strong>ASCII Video Preview</strong>
     </td>
